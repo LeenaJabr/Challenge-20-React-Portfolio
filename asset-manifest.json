@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LeenaJabr/Challenge-React-Portfolio/static/css/main.12d6a5a0.css",
-    "main.js": "/LeenaJabr/Challenge-React-Portfolio/static/js/main.5cae5c8e.js",
-    "static/js/787.e412e604.chunk.js": "/LeenaJabr/Challenge-React-Portfolio/static/js/787.e412e604.chunk.js",
-    "index.html": "/LeenaJabr/Challenge-React-Portfolio/index.html",
-    "main.12d6a5a0.css.map": "/LeenaJabr/Challenge-React-Portfolio/static/css/main.12d6a5a0.css.map",
-    "main.5cae5c8e.js.map": "/LeenaJabr/Challenge-React-Portfolio/static/js/main.5cae5c8e.js.map",
-    "787.e412e604.chunk.js.map": "/LeenaJabr/Challenge-React-Portfolio/static/js/787.e412e604.chunk.js.map"
+    "main.css": "/Challenge-React-Portfolio/static/css/main.12d6a5a0.css",
+    "main.js": "/Challenge-React-Portfolio/static/js/main.3a1cb9f3.js",
+    "static/js/787.e412e604.chunk.js": "/Challenge-React-Portfolio/static/js/787.e412e604.chunk.js",
+    "index.html": "/Challenge-React-Portfolio/index.html",
+    "main.12d6a5a0.css.map": "/Challenge-React-Portfolio/static/css/main.12d6a5a0.css.map",
+    "main.3a1cb9f3.js.map": "/Challenge-React-Portfolio/static/js/main.3a1cb9f3.js.map",
+    "787.e412e604.chunk.js.map": "/Challenge-React-Portfolio/static/js/787.e412e604.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12d6a5a0.css",
-    "static/js/main.5cae5c8e.js"
+    "static/js/main.3a1cb9f3.js"
   ]
 }
